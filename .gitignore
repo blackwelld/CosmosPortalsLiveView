@@ -1,0 +1,31 @@
+# Gradle
+.gradle/
+build/
+out/
+libs/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Mac
+.DS_Store
+
+# Mod Files
+run/
+runs/
+*.jar
+*.zip
+
+# Gradle wrapper
+/gradlew.bat
+/gradlew
